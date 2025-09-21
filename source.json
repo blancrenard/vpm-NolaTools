@@ -7,10 +7,6 @@
         "url": "https://github.com/blancrenard"
     },
     "description": "VRChatのアバター用ファーマスク生成ツール",
-    "infoLink":{
-        "url":"https://github.com/blancrenard/vpm-NolaTools",
-        "text":"View on GitHub"
-    },
     "githubRepos":[
         "blancrenard/NolaTools"
     ],
